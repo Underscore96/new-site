@@ -15,13 +15,39 @@ font-family: 'Noto Sans', sans-serif; */
 
 
 body{
+    background-color: #ffffff;
     margin: 0;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .header {
     padding: 60px;
     text-align: center;
-    background: #9F838C;
-    color: #1f0322;
+    background-color: #20341fcb;
+    color: #221e23;
     font-size: 30px;
+    font-family: 'Allura', cursive;
+    
   }
+
+
+.nav-link{
+    color: #081609bd;
+    font-size: medium;
+    font-weight: bold;
+    margin: 0px 4px;
+}
+
+
+
+main{
+    width: 600px;
+    margin:auto;
+    background-color: white;
+    padding: 16px;
+}
+
+
+.home-img{
+    width: 100%;
+}
